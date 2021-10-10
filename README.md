@@ -71,9 +71,15 @@ REPEAT
 
 
 We are still working on the following commands:
+
    ALT-SHIFT (Input Lanugage Swap)
+
    CTRL-ALT [key name] (ex: CTRL-ALT DEL)
+
    CTRL-SHIFT [key name] (ex: CTRL-SHIFT ESC)
+
    COMMAND | COMMAND [key] (For OSX Users ex: COMMAND SPACE)
+
    SHIFT [key name] (ex: SHIFT DEL)
+
    [key name] (anything in the keyboard.properties)
