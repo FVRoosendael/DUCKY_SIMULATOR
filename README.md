@@ -6,15 +6,21 @@ After simulating the scripts they can be compiled for the following devices:
 Payloads can be found at:
   https://github.com/hak5/usbrubberducky-payloads
 
+
 Currently the following commands are being supported:
 see: https://docs.hak5.org/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language
 
 
 REM
+
 DEFAULT_DELAY OR DEFAULTDELAY
+
 DELAY
+
 STRING
+
 WINDOWS OR GUI
+
 MENU OR APP
 SHIFT
   SHIFT | DELETE, HOME, INSERT, PAGEUP, PAGEDOWN, WINDOWS, GUI, UPARROW, DOWNARROW, LEFTARROW, RIGHTARROW, TAB
