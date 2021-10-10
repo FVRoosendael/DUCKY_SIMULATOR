@@ -9,6 +9,7 @@ Payloads can be found at:
 Currently the following commands are being supported:
 see: https://docs.hak5.org/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language
 
+
 REM
 DEFAULT_DELAY OR DEFAULTDELAY
 DELAY
